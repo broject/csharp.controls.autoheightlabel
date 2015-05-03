@@ -1,0 +1,9 @@
+c:\users\boroo\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\csharp.controls.autoheightlabel.exe
+c:\users\boroo\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\csharp.controls.autoheightlabel.pdb
+c:\users\boroo\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\csharp.controls.autoheightlabel.Form1.resources
+c:\users\boroo\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\csharp.controls.autoheightlabel.Properties.Resources.resources
+c:\users\boroo\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\csharp.controls.autoheightlabel.csproj.GenerateResource.Cache
+c:\users\boroo\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\csharp.controls.autoheightlabel.exe
+c:\users\boroo\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\csharp.controls.autoheightlabel.pdb
+C:\Users\boroo\Documents\Visual Studio 2013\Projects\csharp.controls.autoheightlabel\obj\Debug\csharp.controls.autoheightlabel.exe
+C:\Users\boroo\Documents\Visual Studio 2013\Projects\csharp.controls.autoheightlabel\obj\Debug\csharp.controls.autoheightlabel.pdb
